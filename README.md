@@ -11,14 +11,14 @@ My FreeToGame app in SwiftUI with MVVM and Combine
 
  	•	 Project Organization & Architecture
 	•	 MVVM 
-  •	 Combine 
+        •	 Combine 
 	•	 Support Dark Mode & light mode 
 	•	 Searching through by Game Category
 	•	 Downloading & Caching Image
 	•	 Custom Animations
 	•	 Asynchronous Data Fetch
 	•	 Planning our Network Calls - API, JSON, Model
-  •	 and many tools used
+        •	 and many tools used
 
 
   
