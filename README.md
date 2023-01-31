@@ -10,6 +10,7 @@ My FreeToGame app in SwiftUI with MVVM and Combine
 
 
  	•	 Project Organization & Architecture
+	• 	 SwiftUI
 	•	 MVVM 
         •	 Combine 
 	•	 Support Dark Mode & light mode 
