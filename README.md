@@ -32,6 +32,7 @@ My FreeToGame app in SwiftUI with MVVM and Combine
 
 ## Search
 
+
 kbd><img src="https://user-images.githubusercontent.com/41602889/215758582-0fa8e295-78b3-4d9d-b22e-210ad518b6ba.png" width="200" height="380">  </kbd>
 <kbd><img src="https://user-images.githubusercontent.com/41602889/215759201-d5ba2495-1133-41f4-9a02-a4cddc37dde3.png" width="200" height="380"></kbd>
 <kbd><img src="https://user-images.githubusercontent.com/41602889/215759214-01969e72-9a55-443c-84fa-fcac3e02007f.png" width="200" height="380"></kbd>
